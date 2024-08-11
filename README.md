@@ -22,6 +22,8 @@ The data is sourced from Kaggle (an Excel extract), [see here to find it.](https
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends to analyze year-over-year sales performance and understand sales trends.
 
 
+- Dashboard Link [see here to find it.](https://public.tableau.com/app/profile/ahmed.fayez/viz/SalesCustomersDashboards/CustomersDashboard)
+
 
 - The Photo of Sales Dashboard
 
