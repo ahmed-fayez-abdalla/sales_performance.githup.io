@@ -6,6 +6,15 @@
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
 
+## Data Source
+
+
+- Where is the data coming from?
+
+
+The data is sourced from Kaggle (an Excel extract), [see here to find it.](https://www.datawithbaraa.com/tableau/tableau-thank-you/)
+
+
 ## Sales Dashboard | Requirements
 
 ### Dashboard Purpose
